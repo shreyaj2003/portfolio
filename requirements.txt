@@ -1,4 +1,4 @@
-Django==4.2
+Django==5.0.1
 django-browser-reload==1.12.1
 django-tailwind==3.6.0
 dj_database_url==2.1.0
