@@ -677,6 +677,11 @@ html.js :where([class*="taos:"]:not(.taos-init)) {
   margin-bottom: auto;
 }
 
+.mx-10 {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -756,6 +761,10 @@ html.js :where([class*="taos:"]:not(.taos-init)) {
 
 .h-svh {
   height: 100svh;
+}
+
+.h-9 {
+  height: 2.25rem;
 }
 
 .w-0 {
